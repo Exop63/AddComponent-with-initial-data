@@ -4,7 +4,7 @@ This is an extension of Component class of Unity.
 
   
   --------------------------------------------
-  ```
+  ```C#
  public class PlayerSetup : MonoBehaviour<br>
  {<br>
   public string m_Name = ""<br>
